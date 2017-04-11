@@ -1,0 +1,14 @@
+---
+title: "readme"
+author: "oldenough"
+date: "April 11, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data Science Course Project 
+
+Repo created for Peer-graded Course Project.  The course project is for the Coursera Johns Hopkins Data Scientist's Toolbox course.  It is intended to show that we have completed various activities related to the tools necessary to take further courses.
